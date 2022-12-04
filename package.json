@@ -25,7 +25,9 @@
   "devDependencies": {
     "@testing-library/react": "^13.4.0",
     "@vitejs/plugin-react": "^2.2.0",
+    "eslint-config-prettier": "^8.5.0",
     "git-cz": "^4.9.0",
-    "jsdom": "^20.0.3"
+    "jsdom": "^20.0.3",
+    "prettier": "^2.8.0"
   }
 }
